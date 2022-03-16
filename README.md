@@ -1,4 +1,4 @@
-# Import animation .json with react-lottie
+# PokeAPI with React, Axios, Hooks, Router
 
 <!-- ![pokeapi]() -->
 
