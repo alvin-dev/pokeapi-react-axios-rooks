@@ -7,7 +7,7 @@
 []()
 
 >## Task lists
->- [ ] api with axios
+>- [x] api with axios
 >- [ ] styled components
 >- [ ] dark mode
 >- [ ] filter (type, region)
